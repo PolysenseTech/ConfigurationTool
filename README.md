@@ -8,12 +8,12 @@ ConfigurationTool.exe is the latest runnable configuration tool, You can also do
 
 ## Screenshot
 ![Config00](/image/Config_00.png) 
-|                |                |                 
-| :-------------------: | :-------------------: |
-| ![Config01](/image/Config_01.png) | ![Config02](/image/Config_02.png) |
-| ![Config03](/image/Config_03.png) | ![Config04](/image/Config_04.png) |
+![Config01](/image/Config_01.png)
+![Config02](/image/Config_02.png)
+![Config03](/image/Config_03.png)
+![Config04](/image/Config_04.png)
 
-# Environment dependent installation
+# Environment dependent
 * The upper computer runs and depends on the environment NET Framework 4.0
 
 * Download and install from the public drive at the download address http://ota.polysense.online/wincc/depend/dotNet4.rar
